@@ -1,2 +1,2 @@
 # webpage
-this repo is for my website for my 
+this repo is for my website files
